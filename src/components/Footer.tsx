@@ -97,7 +97,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="text-center">
           <p className="text-zinc-700 text-xs" style={{ fontFamily: "Inter" }}>
-            © 2025 EliteCoach · Tüm hakları saklıdır.
+            © 2025 EkrenFit · Tüm hakları saklıdır.
           </p>
           <p className="text-zinc-800 text-[10px] mt-1" style={{ fontFamily: "Inter" }}>
             Tasarlandı & Geliştirildi ❤️
